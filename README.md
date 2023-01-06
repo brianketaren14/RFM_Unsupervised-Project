@@ -3,7 +3,7 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 
 <b>Dataset :</b> <a target='_blank'>https://archive.ics.uci.edu/ml/datasets/online+retail</a>
 
-<b>Dashboard :</b> <a target='_blank'>https://datastudio.google.com/reporting/7abd016a-5e05-4e53-829f-43aa9143ff92<a/>
+<b>Dashboard :</b> <a target='_blank'>https://datastudio.google.com/reporting/bd5637de-5531-4362-b77c-93a9bdb17a3c<a/>
 
 Number of Instances: 541909
 
